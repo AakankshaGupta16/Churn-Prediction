@@ -40,12 +40,13 @@ Customer churn is a significant issue for telecom companies, affecting their pro
 ## Project Visuals
 
 ### Churn Analysis Summary
-![Churn Analysis Summary](https://github.com/AakankshaGupta16/Churn-Prediction/Summary.png)
+![Churn Analysis Summary](Churn Analysis - Summary.png)
 
 ### Churn Analysis Predictions
-![Churn Analysis Prediction](https://github.com/AakankshaGupta16/Churn-Prediction/ChurnPrediction.png)
+![Churn Analysis Prediction](Churn Analysis - Prediction.png)
+
 ### Churn Reasons
-![Churn Reasons](https://github.com/AakankshaGupta16/Churn-Prediction/Churn_reasons.png)
+![Churn Reasons](Churn Reasons.png)
 
 ## How to Use the Power BI File
 
